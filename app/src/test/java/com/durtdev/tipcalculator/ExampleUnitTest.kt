@@ -1,4 +1,4 @@
-package com.durtdev.tipcalculator
+package com.islaharper.tipcalculator
 
 import org.junit.Test
 

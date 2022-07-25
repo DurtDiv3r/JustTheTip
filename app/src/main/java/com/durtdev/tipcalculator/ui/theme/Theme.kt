@@ -1,4 +1,4 @@
-package com.durtdev.tipcalculator.ui.theme
+package com.islaharper.tipcalculator.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
